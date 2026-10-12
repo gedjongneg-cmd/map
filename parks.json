@@ -1,0 +1,733 @@
+{
+ "parks": [
+  {
+   "id": "usj",
+   "name": "유니버설 스튜디오 재팬",
+   "nameEn": "Universal Studios Japan",
+   "queueTimesID": 284,
+   "center": {
+    "lat": 34.6655,
+    "lon": 135.4323
+   },
+   "boundary": [
+    {
+     "lat": 34.661736,
+     "lon": 135.430925
+    },
+    {
+     "lat": 34.661768,
+     "lon": 135.430908
+    },
+    {
+     "lat": 34.662811,
+     "lon": 135.430257
+    },
+    {
+     "lat": 34.663012,
+     "lon": 135.430113
+    },
+    {
+     "lat": 34.663124,
+     "lon": 135.430006
+    },
+    {
+     "lat": 34.663287,
+     "lon": 135.429844
+    },
+    {
+     "lat": 34.66335,
+     "lon": 135.429782
+    },
+    {
+     "lat": 34.663516,
+     "lon": 135.4296
+    },
+    {
+     "lat": 34.663681,
+     "lon": 135.42944
+    },
+    {
+     "lat": 34.663817,
+     "lon": 135.42932
+    },
+    {
+     "lat": 34.663983,
+     "lon": 135.429205
+    },
+    {
+     "lat": 34.664354,
+     "lon": 135.428998
+    },
+    {
+     "lat": 34.664902,
+     "lon": 135.428678
+    },
+    {
+     "lat": 34.665336,
+     "lon": 135.42842
+    },
+    {
+     "lat": 34.665871,
+     "lon": 135.428085
+    },
+    {
+     "lat": 34.665971,
+     "lon": 135.428023
+    },
+    {
+     "lat": 34.66643,
+     "lon": 135.427737
+    },
+    {
+     "lat": 34.666569,
+     "lon": 135.428056
+    },
+    {
+     "lat": 34.666536,
+     "lon": 135.428085
+    },
+    {
+     "lat": 34.667754,
+     "lon": 135.429703
+    },
+    {
+     "lat": 34.668927,
+     "lon": 135.429156
+    },
+    {
+     "lat": 34.669146,
+     "lon": 135.429908
+    },
+    {
+     "lat": 34.669241,
+     "lon": 135.429965
+    },
+    {
+     "lat": 34.669711,
+     "lon": 135.431487
+    },
+    {
+     "lat": 34.66959,
+     "lon": 135.431566
+    },
+    {
+     "lat": 34.669567,
+     "lon": 135.431632
+    },
+    {
+     "lat": 34.669718,
+     "lon": 135.432126
+    },
+    {
+     "lat": 34.669739,
+     "lon": 135.432211
+    },
+    {
+     "lat": 34.669739,
+     "lon": 135.432286
+    },
+    {
+     "lat": 34.669718,
+     "lon": 135.432348
+    },
+    {
+     "lat": 34.669651,
+     "lon": 135.432392
+    },
+    {
+     "lat": 34.668816,
+     "lon": 135.432785
+    },
+    {
+     "lat": 34.668788,
+     "lon": 135.432809
+    },
+    {
+     "lat": 34.668744,
+     "lon": 135.432886
+    },
+    {
+     "lat": 34.668731,
+     "lon": 135.433011
+    },
+    {
+     "lat": 34.668749,
+     "lon": 135.433161
+    },
+    {
+     "lat": 34.668761,
+     "lon": 135.433321
+    },
+    {
+     "lat": 34.66877,
+     "lon": 135.433413
+    },
+    {
+     "lat": 34.668767,
+     "lon": 135.433488
+    },
+    {
+     "lat": 34.668762,
+     "lon": 135.433577
+    },
+    {
+     "lat": 34.668753,
+     "lon": 135.433637
+    },
+    {
+     "lat": 34.668755,
+     "lon": 135.433693
+    },
+    {
+     "lat": 34.668777,
+     "lon": 135.433774
+    },
+    {
+     "lat": 34.668813,
+     "lon": 135.433831
+    },
+    {
+     "lat": 34.66909,
+     "lon": 135.434118
+    },
+    {
+     "lat": 34.667592,
+     "lon": 135.436199
+    },
+    {
+     "lat": 34.667541,
+     "lon": 135.436294
+    },
+    {
+     "lat": 34.666972,
+     "lon": 135.437459
+    },
+    {
+     "lat": 34.666557,
+     "lon": 135.437222
+    },
+    {
+     "lat": 34.66596,
+     "lon": 135.436873
+    },
+    {
+     "lat": 34.665407,
+     "lon": 135.436533
+    },
+    {
+     "lat": 34.664831,
+     "lon": 135.436188
+    },
+    {
+     "lat": 34.664333,
+     "lon": 135.435874
+    },
+    {
+     "lat": 34.664067,
+     "lon": 135.43571
+    },
+    {
+     "lat": 34.663821,
+     "lon": 135.435524
+    },
+    {
+     "lat": 34.663639,
+     "lon": 135.435353
+    },
+    {
+     "lat": 34.663458,
+     "lon": 135.435141
+    },
+    {
+     "lat": 34.663296,
+     "lon": 135.434902
+    },
+    {
+     "lat": 34.663208,
+     "lon": 135.434773
+    },
+    {
+     "lat": 34.663066,
+     "lon": 135.434494
+    },
+    {
+     "lat": 34.662975,
+     "lon": 135.434265
+    },
+    {
+     "lat": 34.662214,
+     "lon": 135.432178
+    },
+    {
+     "lat": 34.661736,
+     "lon": 135.430925
+    }
+   ],
+   "attractions": [
+    {
+     "name": "JAWS",
+     "nameJa": "ジョーズ",
+     "lat": 34.666215,
+     "lon": 135.43169,
+     "kind": "",
+     "queueName": "JAWS™",
+     "nameKo": "죠스",
+     "isRide": true
+    },
+    {
+     "name": "スペース・ファンタジー・ザ・ライド",
+     "nameJa": "スペース・ファンタジー・ザ・ライド",
+     "lat": 34.665258,
+     "lon": 135.435588,
+     "kind": "",
+     "queueName": "Space Fantasy – The Ride",
+     "nameKo": "스페이스 판타지 더 라이드",
+     "isRide": true
+    },
+    {
+     "name": "Hogwarts Express Photo",
+     "nameJa": "ホグワーツ特急のフォト・オポチュニティ",
+     "lat": 34.667483,
+     "lon": 135.431414,
+     "kind": "",
+     "nameKo": "호그와트 특급 포토존",
+     "isRide": false
+    },
+    {
+     "name": "Flight of the Hippogriff",
+     "nameJa": "フライト・オブ・ザ・ヒッポグリフ",
+     "lat": 34.668487,
+     "lon": 135.432093,
+     "kind": "roller_coaster",
+     "queueName": "Flight of the Hippogriff™",
+     "nameKo": "플라이트 오브 더 히포그리프",
+     "isRide": true
+    },
+    {
+     "name": "Harry Potter and The Forbidden Journey",
+     "nameJa": "ハリーポッター・アンド・ザ・フォービドゥン・ジャーニー",
+     "lat": 34.668193,
+     "lon": 135.431755,
+     "kind": "",
+     "queueName": "Harry Potter and the Forbidden Journey™ ",
+     "nameKo": "해리포터 앤 더 포비든 저니",
+     "isRide": true
+    },
+    {
+     "name": "42nd Street Studio: Greeting Gallery",
+     "nameJa": "フォーティセカンド・ストリート・スタジオ ～グリーティング・ギャラリー～",
+     "lat": 34.664133,
+     "lon": 135.43339,
+     "kind": "",
+     "nameKo": "42번가 스튜디오 그리팅",
+     "isRide": false
+    },
+    {
+     "name": "Jurassic Park - The Ride",
+     "nameJa": "ジュラシック・パーク・ザ・ライド",
+     "lat": 34.664397,
+     "lon": 135.430626,
+     "kind": "",
+     "queueName": "ジュラシック・パーク・ザ・ライド ～イン・ザ・ダーク～",
+     "nameKo": "쥬라기 공원 더 라이드",
+     "isRide": true
+    },
+    {
+     "name": "The Flying Dinosaur",
+     "nameJa": "ザ・フライング・ダイナソー",
+     "lat": 34.663447,
+     "lon": 135.43054,
+     "kind": "roller_coaster",
+     "queueName": "The Flying Dinosaur",
+     "nameKo": "더 플라잉 다이너소어",
+     "isRide": true
+    },
+    {
+     "name": "Hollywood Dream -The Ride-",
+     "nameJa": "ハリウッド・ドリーム・ザ・ライド",
+     "lat": 34.666546,
+     "lon": 135.433928,
+     "kind": "roller_coaster",
+     "queueName": "Hollywood Dream - The Ride",
+     "nameKo": "할리우드 드림 더 라이드",
+     "isRide": true
+    },
+    {
+     "name": "The Flying Snoopy",
+     "nameJa": "フライング・スヌーピー",
+     "lat": 34.666753,
+     "lon": 135.432577,
+     "kind": "",
+     "queueName": "The Flying Snoopy",
+     "nameKo": "플라잉 스누피",
+     "isRide": true
+    },
+    {
+     "name": "Hello Kitty's Cupcake Dream",
+     "nameJa": "ハローキティのカップケーキ・ドリーム",
+     "lat": 34.666957,
+     "lon": 135.432939,
+     "kind": "",
+     "queueName": "Hello Kitty's Cupcake Dream",
+     "nameKo": "헬로키티 컵케이크 드림",
+     "isRide": true
+    },
+    {
+     "name": "Big Bird's Big Top Circus",
+     "nameJa": "ビッグバードのビッグトップ・サーカス",
+     "lat": 34.667449,
+     "lon": 135.432963,
+     "kind": "",
+     "nameKo": "빅버드 서커스",
+     "isRide": true
+    },
+    {
+     "name": "Elmo's Little Drive",
+     "nameJa": "エルモのリトル・ドライブ",
+     "lat": 34.667527,
+     "lon": 135.433237,
+     "kind": "",
+     "nameKo": "엘모 리틀 드라이브",
+     "isRide": true
+    },
+    {
+     "name": "Hello Kitty's Ribbon Collection",
+     "nameJa": "ハローキティのリボン・コレクション",
+     "lat": 34.667268,
+     "lon": 135.432673,
+     "kind": "",
+     "queueName": "Hello Kitty's Ribbon Collection",
+     "nameKo": "헬로키티 리본 컬렉션",
+     "isRide": true
+    },
+    {
+     "name": "Moppy's Balloon Trip",
+     "nameJa": "モッピーのバルーン・トリップ",
+     "lat": 34.667362,
+     "lon": 135.433551,
+     "kind": "",
+     "nameKo": "모피 벌룬 트립",
+     "isRide": true
+    },
+    {
+     "name": "Elmo's Go-GO Skateboard",
+     "nameJa": "エルモのゴーゴー・スケートボード",
+     "lat": 34.667211,
+     "lon": 135.433362,
+     "kind": "",
+     "nameKo": "엘모 스케이트보드",
+     "isRide": true
+    },
+    {
+     "name": "Sesame's Big Drive",
+     "nameJa": "セサミのビッグ・ドライブ",
+     "lat": 34.6673,
+     "lon": 135.43414,
+     "kind": "",
+     "nameKo": "세서미 빅 드라이브",
+     "isRide": true
+    },
+    {
+     "name": "Cookie Monster Slide",
+     "nameJa": "クッキーモンスター・スライド",
+     "lat": 34.667573,
+     "lon": 135.433671,
+     "kind": "",
+     "nameKo": "쿠키몬스터 슬라이드",
+     "isRide": true
+    },
+    {
+     "name": "Abby's Magical Tree",
+     "nameJa": "アビーのマジカル・ツリー",
+     "lat": 34.667504,
+     "lon": 135.433591,
+     "kind": "",
+     "nameKo": "애비 매지컬 트리",
+     "isRide": true
+    },
+    {
+     "name": "Big Bird's Big Nest",
+     "nameJa": "ビッグバードのビッグ・ネスト",
+     "lat": 34.667915,
+     "lon": 135.433024,
+     "kind": "",
+     "nameKo": "빅버드 빅 네스트",
+     "isRide": true
+    },
+    {
+     "name": "Moppy's Lucky Dance Party",
+     "nameJa": "モッピーのラッキー・ダンス・パーティ",
+     "lat": 34.668065,
+     "lon": 135.433041,
+     "kind": "",
+     "nameKo": "모피 댄스 파티",
+     "isRide": true
+    },
+    {
+     "name": "Elmo's Bubble Bubble",
+     "nameJa": "エルモのバブル・バブル",
+     "lat": 34.668203,
+     "lon": 135.433136,
+     "kind": "",
+     "nameKo": "엘모 버블버블",
+     "isRide": true
+    },
+    {
+     "name": "Grover's Construction Company",
+     "nameJa": "グローバーのコンストラクション・カンパニー",
+     "lat": 34.668164,
+     "lon": 135.433515,
+     "kind": "",
+     "nameKo": "그로버 건설회사",
+     "isRide": true
+    },
+    {
+     "name": "アビーのマジカル・パーティ",
+     "nameJa": "アビーのマジカル・パーティ",
+     "lat": 34.668029,
+     "lon": 135.433454,
+     "kind": "",
+     "nameKo": "애비 매지컬 파티",
+     "isRide": true
+    },
+    {
+     "name": "Bert and Ernie's Wonder -The Sea",
+     "nameJa": "バートとアーニーのワンダー・ザ・シー",
+     "lat": 34.667875,
+     "lon": 135.433422,
+     "kind": "",
+     "nameKo": "버트와 어니 원더 더 시",
+     "isRide": true
+    },
+    {
+     "name": "Despicable Me: Minion Mayhem",
+     "nameJa": "ミニオン・ハチャメチャ・ライド",
+     "lat": 34.663063,
+     "lon": 135.432374,
+     "kind": "",
+     "queueName": "Despicable Me Minion Mayhem",
+     "nameKo": "미니언 메이헴",
+     "isRide": true
+    },
+    {
+     "name": "Hogwarts Castle Walk",
+     "nameJa": "ホグワーツ・キャッスル・ウォーク",
+     "lat": 34.668447,
+     "lon": 135.431711,
+     "kind": "",
+     "nameKo": "호그와트 성 워크",
+     "isRide": false
+    },
+    {
+     "name": "Ernie's Rubber Duckie Race",
+     "nameJa": "アーニーのラバーダッキー・レース",
+     "lat": 34.6672,
+     "lon": 135.433753,
+     "kind": "",
+     "nameKo": "어니 러버덕 레이스",
+     "isRide": true
+    },
+    {
+     "name": "JAWS' Hanging Shark",
+     "nameJa": "ハンギング・シャーク",
+     "lat": 34.666027,
+     "lon": 135.431894,
+     "kind": "",
+     "nameKo": "죠스 포토존",
+     "isRide": false
+    },
+    {
+     "name": "ミニオン・ハチャメチャ・アイス",
+     "nameJa": "ミニオン・ハチャメチャ・アイス",
+     "lat": 34.66334,
+     "lon": 135.432648,
+     "kind": "",
+     "queueName": "Freeze Ray Sliders",
+     "nameKo": "프리즈 레이 슬라이더(미니언 아이스)",
+     "isRide": true
+    },
+    {
+     "name": "Bowser Jr. Shadow Showdown",
+     "nameJa": "とりかえせゴールデンキノコ！クッパJr. ファイナルバトル",
+     "lat": 34.667944,
+     "lon": 135.429801,
+     "kind": "",
+     "nameKo": "쿠파 주니어 섀도 쇼다운",
+     "isRide": true
+    },
+    {
+     "name": "Mario Kart: Koopa's Challenge",
+     "nameJa": "マリオカート ～クッパの挑戦状～",
+     "lat": 34.668046,
+     "lon": 135.429918,
+     "kind": "",
+     "queueName": "Mario Kart: Koopa's Challenge™",
+     "nameKo": "마리오 카트 쿠파의 도전장",
+     "isRide": true
+    },
+    {
+     "name": "Yoshi's Adventure",
+     "nameJa": "ヨッシー・アドベンチャー",
+     "lat": 34.668025,
+     "lon": 135.430304,
+     "kind": "",
+     "queueName": "Yoshi's Adventure™",
+     "nameKo": "요시 어드벤처",
+     "isRide": true
+    },
+    {
+     "name": "Donkey Kong Country",
+     "nameJa": "ドンキーコング・カントリー",
+     "lat": 34.668745,
+     "lon": 135.430642,
+     "kind": "",
+     "queueName": "Mine Cart Madness™",
+     "nameKo": "동키콩 마인 카트 매드니스",
+     "isRide": true
+    },
+    {
+     "name": "Villain-Con International",
+     "nameJa": "Villain-Con International",
+     "lat": 34.663839,
+     "lon": 135.432274,
+     "kind": "",
+     "nameKo": "빌런콘 인터내셔널",
+     "isRide": false
+    },
+    {
+     "name": "Goomba Crazy Crank",
+     "nameJa": "クリボー・クルクルクランク",
+     "lat": 34.66772,
+     "lon": 135.430157,
+     "kind": "",
+     "nameKo": "굼바 크레이지 크랭크",
+     "isRide": true
+    },
+    {
+     "name": "Koopa Troopa POWer Punch",
+     "nameJa": "クリボー・クルクルノコノコ・POWブロックパンチクランク",
+     "lat": 34.667781,
+     "lon": 135.430089,
+     "kind": "",
+     "nameKo": "엉금엉금 POW 펀치",
+     "isRide": true
+    },
+    {
+     "name": "Water World",
+     "nameJa": "ウォーターワールド",
+     "lat": 34.666642,
+     "lon": 135.429766,
+     "kind": "",
+     "nameKo": "워터월드 쇼",
+     "isRide": false
+    },
+    {
+     "name": "Hollywood Dream - Backdrop",
+     "nameJa": "ハリウッド・ドリーム・ザ・ライド",
+     "lat": 34.666546,
+     "lon": 135.433928,
+     "kind": "roller_coaster",
+     "queueName": "Hollywood Dream -The Ride - Backdrop-",
+     "nameKo": "할리우드 드림 백드롭",
+     "isRide": true
+    }
+   ],
+   "listOnly": [
+    {
+     "queueName": "Detective Conan: The World",
+     "nameKo": "명탐정 코난 더 월드"
+    },
+    {
+     "queueName": "Ollivanders™",
+     "nameKo": "올리밴더스"
+    },
+    {
+     "queueName": "Playing with Curious George™",
+     "nameKo": "큐리어스 조지"
+    },
+    {
+     "queueName": "Sesame Street 4-D Movie Magic™",
+     "nameKo": "세서미 스트리트 4D"
+    },
+    {
+     "queueName": "Shrek’s 4-D Adventure™",
+     "nameKo": "슈렉 4D"
+    },
+    {
+     "queueName": "SING ON TOUR",
+     "nameKo": "싱 온 투어"
+    },
+    {
+     "queueName": "スヌーピーのフライング•エース•アドベンチャー",
+     "nameKo": "스누피 플라잉 에이스"
+    },
+    {
+     "queueName": "ミニオン・ハチャメチャ・ミッション ～大悪党への道～",
+     "nameKo": "미니언 하차메차 미션"
+    }
+   ],
+   "zones": [
+    {
+     "name": "슈퍼 닌텐도 월드",
+     "nameEn": "Super Nintendo World",
+     "lat": 34.66819,
+     "lon": 135.430166
+    },
+    {
+     "name": "위자딩 월드 (해리포터)",
+     "nameEn": "The Wizarding World of Harry Potter",
+     "lat": 34.668376,
+     "lon": 135.431853
+    },
+    {
+     "name": "미니언 파크",
+     "nameEn": "Minion Park",
+     "lat": 34.663414,
+     "lon": 135.432432
+    },
+    {
+     "name": "쥬라기 공원",
+     "nameEn": "Jurassic Park",
+     "lat": 34.663922,
+     "lon": 135.430583
+    },
+    {
+     "name": "애미티 빌리지 (죠스)",
+     "nameEn": "Amity Village",
+     "lat": 34.666121,
+     "lon": 135.431792
+    },
+    {
+     "name": "유니버설 원더랜드",
+     "nameEn": "Universal Wonderland",
+     "lat": 34.66721,
+     "lon": 135.433053
+    },
+    {
+     "name": "할리우드",
+     "nameEn": "Hollywood",
+     "lat": 34.665902,
+     "lon": 135.434758
+    },
+    {
+     "name": "워터월드",
+     "nameEn": "Waterworld",
+     "lat": 34.666642,
+     "lon": 135.429766
+    },
+    {
+     "name": "뉴욕",
+     "nameEn": "New York",
+     "lat": 34.6652,
+     "lon": 135.4335
+    },
+    {
+     "name": "샌프란시스코",
+     "nameEn": "San Francisco",
+     "lat": 34.6665,
+     "lon": 135.432
+    }
+   ]
+  }
+ ]
+}
