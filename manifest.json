@@ -1,8 +1,8 @@
 {
- "version": "20261012-1036",
+ "version": "20261012-1042",
  "files": [
   "curated.json",
   "parks.json"
  ],
- "note": "초기 업로드 · 314곳"
+ "note": "원격 갱신 스크립트 추가 · 314곳"
 }
