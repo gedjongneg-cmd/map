@@ -1,9 +1,9 @@
 {
- "version": "20261013-2132",
+ "version": "20261015-0833",
  "files": [
   "curated.json",
   "parks.json",
   "indoor.json"
  ],
- "note": "아니메이트 빌딩 층별 안내 추가 · 338곳"
+ "note": "일행 5명 기준 메모 수정 · 338곳"
 }
