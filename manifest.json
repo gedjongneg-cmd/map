@@ -1,10 +1,10 @@
 {
- "version": "20261016-1534",
+ "version": "20261023-1204",
  "files": [
   "curated.json",
   "parks.json",
   "indoor.json",
   "shopping.json"
  ],
- "note": "동선별 쇼핑 목록 추가 · 338곳"
+ "note": "10/23 일정 변경 반영 (1일차 16:50 집합, 2일차 14:30) · 338곳"
 }
