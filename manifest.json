@@ -1,10 +1,10 @@
 {
- "version": "20261023-1211",
+ "version": "20261023-2047",
  "files": [
   "curated.json",
   "parks.json",
   "indoor.json",
   "shopping.json"
  ],
- "note": "린쿠 돈키호테 추가, 전체 일정 최적화 · 339곳"
+ "note": "숙소 사카이·19시 비행기·비상연락 반영 · 339곳"
 }
