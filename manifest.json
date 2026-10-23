@@ -1,10 +1,10 @@
 {
- "version": "20261023-1204",
+ "version": "20261023-1211",
  "files": [
   "curated.json",
   "parks.json",
   "indoor.json",
   "shopping.json"
  ],
- "note": "10/23 일정 변경 반영 (1일차 16:50 집합, 2일차 14:30) · 338곳"
+ "note": "린쿠 돈키호테 추가, 전체 일정 최적화 · 339곳"
 }
