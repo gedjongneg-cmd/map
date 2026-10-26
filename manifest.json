@@ -1,10 +1,10 @@
 {
- "version": "20261023-2047",
+ "version": "20261026-1049",
  "files": [
   "curated.json",
   "parks.json",
   "indoor.json",
   "shopping.json"
  ],
- "note": "숙소 사카이·19시 비행기·비상연락 반영 · 339곳"
+ "note": "일정 지역 장소 149곳 추가, 공항 매장 정정 · 487곳"
 }
